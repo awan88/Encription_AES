@@ -1,4 +1,4 @@
-/*
+
 package awan.project.encriptaes;
 
 import java.security.SecureRandom;
@@ -78,4 +78,3 @@ public class SimpleCrypto {
         sb.append(HEX.charAt((b>>4)&0x0f)).append(HEX.charAt(b&0x0f));
     }
 }
-*/
